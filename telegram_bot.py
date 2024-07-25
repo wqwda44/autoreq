@@ -8,9 +8,9 @@ from aiogram import Bot, Dispatcher, types
 
 #БД СОЗДАЕТЬСЯ САМА!
 #Рассылка через /send
-TOKEN = "6956712354:AAFLnHGXu6IKmx2xFSGMLSrwwh0-3BqP-20" # токен бота и айди канала, и себя(админа) https://t.me/username_to_id_bot, создай в канале ссылку по принятию и ее распрастраняй
-CHANNEL_ID = -1002204940186
-ADMIN_ID = 6710988239
+TOKEN = "here" # токен бота и айди канала, и себя(админа) https://t.me/username_to_id_bot, создай в канале ссылку по принятию и ее распрастраняй
+CHANNEL_ID = here
+ADMIN_ID = here
 DATABASE = 'users.db'
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
